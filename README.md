@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [My favorite hero](https://github.com/android-study-playground/my-favorite-hero) -->
 
-- 📝 I regulary write articles on [https://ueharamatheus.com](ueharamatheus.com)
+- 📝 I regulary write articles on [my personal blog](https://www.ueharamatheus.com)
 
 - 📫 How to reach me **matheuspitanco@gmail.com**
 
