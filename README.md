@@ -3,10 +3,10 @@
 
 <!-- - 🔭 I’m currently working on [My favorite hero](https://github.com/android-study-playground/my-favorite-hero) -->
 
-- 📝 I regulary write articles on [my personal blog](https://www.ueharamatheus.com)
+<!-- - 📝 I regulary write articles on [my personal blog](https://www.ueharamatheus.com)
 
 - 📫 How to reach me **matheuspitanco@gmail.com**
-
+ -->
 <p align="left">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
